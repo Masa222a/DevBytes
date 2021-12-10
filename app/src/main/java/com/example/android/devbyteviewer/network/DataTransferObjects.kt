@@ -16,6 +16,7 @@
 
 package com.example.android.devbyteviewer.network
 
+import com.example.android.devbyteviewer.database.DatabaseVideo
 import com.example.android.devbyteviewer.domain.DevByteVideo
 import com.squareup.moshi.JsonClass
 
